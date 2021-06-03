@@ -10,10 +10,10 @@ What we've done in our capstone project based on our learning path:
 3. Cloud: Create an API to allow mobile application access into machine learning model, using docker container to run the functions and execution of ml model in cloud run.
 
 My Team :
-M0121259 - Dhanar Bintang Pratama
-M2001957 - Dhira Anindita Ludvia
-C0121280 - Dimas Pratama
-C0121273 - Enrico Megantara
-A0121292 - Pietha Tiara Lingga Dewi
-A0121274 - Rystama Riyanggeta
+1. M0121259 - Dhanar Bintang Pratama
+2. M2001957 - Dhira Anindita Ludvia
+3. C0121280 - Dimas Pratama
+4. C0121273 - Enrico Megantara
+5. A0121292 - Pietha Tiara Lingga Dewi
+6. A0121274 - Rystama Riyanggeta
 
