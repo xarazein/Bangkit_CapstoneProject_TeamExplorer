@@ -5,9 +5,7 @@ in the major that they don't want. Usually student in high school choosing major
 major they realized that this major is not their passion. That's why we need to make sure that high school student know more about what will they have to take in the major they choose.
 
 What we've done in our capstone project based on our learning path:
-1. Machine Learning: Creating questions dataset using manually input & artificially generated questions from raw dataset, building chatbot models with TensorFlow using DNN architecture, using data pipeline to serve the models as api.
-2. Android: Create applications that are used as media for users and also use APIs from the cloud so that they can connect bot responses that have been formed by machine learning. Here is also done deploying the application so that the application can be used by the user.
-3. Cloud: Create an API to allow mobile application access into machine learning model, using docker container to run the functions and execution of ml model in cloud run.
+1. Android: Create applications that are used as media for users and also use APIs from the cloud so that they can connect bot responses that have been formed by machine learning. Here is also done deploying the application so that the application can be used by the user.
 
 My Team :
 1. M0121259 - Dhanar Bintang Pratama
