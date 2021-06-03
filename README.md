@@ -8,3 +8,12 @@ What we've done in our capstone project based on our learning path:
 1. Machine Learning: Creating questions dataset using manually input & artificially generated questions from raw dataset, building chatbot models with TensorFlow using DNN architecture, using data pipeline to serve the models as api.
 2. Android: Create applications that are used as media for users and also use APIs from the cloud so that they can connect bot responses that have been formed by machine learning. Here is also done deploying the application so that the application can be used by the user.
 3. Cloud: Create an API to allow mobile application access into machine learning model, using docker container to run the functions and execution of ml model in cloud run.
+
+My Team :
+M0121259 - Dhanar Bintang Pratama
+M2001957 - Dhira Anindita Ludvia
+C0121280 - Dimas Pratama
+C0121273 - Enrico Megantara
+A0121292 - Pietha Tiara Lingga Dewi
+A0121274 - Rystama Riyanggeta
+
