@@ -7,11 +7,3 @@ major they realized that this major is not their passion. That's why we need to 
 What we've done in our capstone project based on our learning path:
 1. Android: Create applications that are used as media for users and also use APIs from the cloud so that they can connect bot responses that have been formed by machine learning. Here is also done deploying the application so that the application can be used by the user.
 
-My Team :
-1. M0121259 - Dhanar Bintang Pratama
-2. M2001957 - Dhira Anindita Ludvia
-3. C0121280 - Dimas Pratama
-4. C0121273 - Enrico Megantara
-5. A0121292 - Pietha Tiara Lingga Dewi
-6. A0121274 - Rystama Riyanggeta
-
